@@ -1,0 +1,9 @@
+.\objects\mainapp.o: mainApp.c
+.\objects\mainapp.o: .\librairie\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+.\objects\mainapp.o: .\librairie\CMSIS\stm32f4xx.h
+.\objects\mainapp.o: .\librairie\CMSIS\core_cm4.h
+.\objects\mainapp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mainapp.o: .\librairie\CMSIS\core_cmInstr.h
+.\objects\mainapp.o: .\librairie\CMSIS\core_cmFunc.h
+.\objects\mainapp.o: .\librairie\CMSIS\core_cmSimd.h
+.\objects\mainapp.o: .\librairie\CMSIS\system_stm32f4xx.h

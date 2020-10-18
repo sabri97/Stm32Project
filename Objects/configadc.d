@@ -1,0 +1,10 @@
+.\objects\configadc.o: ConfigAdc.c
+.\objects\configadc.o: .\librairie\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h
+.\objects\configadc.o: .\librairie\CMSIS\stm32f4xx.h
+.\objects\configadc.o: .\librairie\CMSIS\core_cm4.h
+.\objects\configadc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\configadc.o: .\librairie\CMSIS\core_cmInstr.h
+.\objects\configadc.o: .\librairie\CMSIS\core_cmFunc.h
+.\objects\configadc.o: .\librairie\CMSIS\core_cmSimd.h
+.\objects\configadc.o: .\librairie\CMSIS\system_stm32f4xx.h
+.\objects\configadc.o: .\librairie\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h

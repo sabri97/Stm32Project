@@ -1,0 +1,10 @@
+.\objects\configgpio.o: ConfigGPIO.c
+.\objects\configgpio.o: .\librairie\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+.\objects\configgpio.o: .\librairie\CMSIS\stm32f4xx.h
+.\objects\configgpio.o: .\librairie\CMSIS\core_cm4.h
+.\objects\configgpio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\configgpio.o: .\librairie\CMSIS\core_cmInstr.h
+.\objects\configgpio.o: .\librairie\CMSIS\core_cmFunc.h
+.\objects\configgpio.o: .\librairie\CMSIS\core_cmSimd.h
+.\objects\configgpio.o: .\librairie\CMSIS\system_stm32f4xx.h
+.\objects\configgpio.o: .\librairie\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h
