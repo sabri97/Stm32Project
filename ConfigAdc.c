@@ -22,7 +22,7 @@ ADC_Cmd(ADC1, ENABLE);
 					
 }
 
-u16 readADC1(u8 channel){ 
+unsigned int readADC1(unsigned char channel){ 
 ADC_RegularChannelConfig(ADC1, channel, 1,ADC_SampleTime_3Cycles );
 ADC_SoftwareStartConv(ADC1); //start conversion			
 while(ADC_GetFlagStatus(ADC1, ADC_FLAG_EOC) == RESET); 	//// Wait until conversion completion 	 

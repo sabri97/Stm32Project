@@ -2,7 +2,7 @@
 
 void ConfigGPIO(void);
 void ConfigADC(void);
-u16 readADC1(u8 channel);
+unsigned int readADC1(unsigned char channel);
 unsigned int val_conv;
 
 int main()
